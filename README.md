@@ -6,4 +6,4 @@
 - [MOLLY'S Beer House](https://agusbattista.github.io/mollysbeerhouse-web/) (sitio en donde demuestro mis habilidades en HTML, CSS y JS).
 
 **Traducciones al Español en las que participo:**
-- [linearmouse (utilidad de mouse y trackpad para macOS).](https://github.com/linearmouse/linearmouse)
+- [linearmouse](https://github.com/linearmouse/linearmouse) (utilidad de mouse y trackpad para macOS).
