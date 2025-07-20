@@ -3,6 +3,7 @@ Estudio la carrera de **Analista Programador Universitario** en la **Universidad
 📫 Pueden contactarme al mail: agusbattista@gmail.com
 
 **Proyectos propios:**
+- [MercadoLibros](https://mercadolibros-react.vercel.app/) (sitio en donde pongo en práctica mis habilidades en React).
 - [MOLLY'S Beer House](https://agusbattista.github.io/mollysbeerhouse-web/) (sitio en donde demuestro mis habilidades en HTML, CSS y JS).
 
 **Traducciones al Español en las que participo:**
